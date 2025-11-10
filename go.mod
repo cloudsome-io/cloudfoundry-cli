@@ -1,0 +1,9 @@
+module cs-cli
+
+go 1.24
+
+toolchain go1.24.9
+
+require golang.org/x/term v0.24.0
+
+require golang.org/x/sys v0.25.0 // indirect
